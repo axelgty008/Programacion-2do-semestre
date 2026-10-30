@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 import java.util.Scanner;
 
 public class Ciclos {
-=======
-package Ciclos01;
-
-import java.util.Scanner;
-
-public class Ciclos01 {
->>>>>>> 8594eccd7b74c18170a6ea7a47d065418ef13e4a
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
