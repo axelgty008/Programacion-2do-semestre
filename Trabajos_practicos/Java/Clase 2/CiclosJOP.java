@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class CiclosJOP {
+=======
+package CiclosJOP;
+
+import java.util.Scanner;
+
+public class Ejercicio02 {
+>>>>>>> 8594eccd7b74c18170a6ea7a47d065418ef13e4a
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
